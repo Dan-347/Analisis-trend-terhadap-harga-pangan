@@ -1,1 +1,3 @@
-# Analisis-trend-terhadap-harga-pangan
+# Analisis trend terhadap harga pangan di Kota Singaraja pada Tahun 2020-2023
+
+Analisis ini bertujuan untuk melihat perkembangan dan pola harga beberapa komoditas pangan utama di Kota Singaraja selama tahun 2020 hingga 2023. Komoditas yang dianalisis meliputi beras, telur ayam, gula pasir, daging ayam, dan bawang putih. Dalam analisis ini ditampilkan tren perubahan harga dari waktu ke waktu, rata-rata harga masing-masing komoditas, serta harga yang paling sering muncul dan yang paling jarang muncul selama periode tersebut. Hasilnya diharapkan dapat memberikan gambaran umum mengenai fluktuasi harga pangan di daerah tersebut dan membantu memahami kondisi pasar secara lebih menyeluruh.
